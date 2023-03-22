@@ -13,3 +13,6 @@
 ✨I did a backend course and I am currently studying frontend.
 
 👑 Find me at https://www.linkedin.com/in/lina-castellanos95/
+
+### Skills: 
+JAVA ,SQL - MySql, Maven, JPA - Hibernate  - SpringBoot, Api Rest, GitHub, UML, Office, JavaScritp, HTML, CSS.
