@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Lina 👋
 
-<!--
-**Linacastellanos95/Linacastellanos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+👩🏻‍💻 I'm a girl passionate about technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💛 I'm from Colombia 
+
+💻 I'm Jr. backend developer 
+
+📝 Always a self-taught apprentice.
+
+✨I did a backend course and I am currently studying frontend.
+
+👑 Find me at https://www.linkedin.com/in/lina-castellanos95/
